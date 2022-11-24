@@ -32,7 +32,7 @@ class MyAdapter(
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         // TODO
-        //  Get the item at index position in mDataSet
+        //  Get the item at index position in dataSet
 
         // TODO
         //  Set the TextView in the ViewHolder to be the title attribute
